@@ -1,0 +1,1 @@
+Npm para instalar dependencias, Npm run en la carpeta del pryecto para runearlo.

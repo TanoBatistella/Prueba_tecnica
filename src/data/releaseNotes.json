@@ -1,0 +1,39 @@
+{
+  "releases": [
+    {
+      "fecha": "21/06/2023",
+      "notas": [
+        {
+          "id": "nota1",
+          "tipo": "nueva",
+          "titulo": "Rediseño de Notificaciones",
+          "descripcion": "Personalizar la configuración de notificaciones ahora es más fácil que nunca. Cambia rápidamente tu configuración usando ajustes preestablecidos como Enfocado o Solo menciones, o adáptalas para que se ajusten a tus necesidades.",
+          "imagen": "/img/image1.png"
+        }
+      ]
+    },
+    {
+      "fecha": "20/06/2023",
+      "notas": [
+        {
+          "id": "nota2",
+          "tipo": "arreglo",
+          "titulo": "Solución de Errores",
+          "descripcion": "- No se puede adjuntar un PDF a las tareas mediante la integración de Adobe.\n- No se puede actualizar el tiempo total del contrato entre el talento y los clientes.\n- Algunos archivos no se cargan cuando se cargan en el portafolio.\n- No se puede actualizar la foto de la empresa.\n- No se puede actualizar la lista de publicaciones de trabajo desde el panel de talentos.\n- Los filtros del mercado no funcionaban correctamente, duplicaban las tarjetas.\n- Los usuarios podían ingresar al portafolio de un talento sin tener que iniciar sesión."
+        }
+      ]
+    },
+    {
+      "fecha": "19/06/2023",
+      "notas": [
+        {
+          "id": "nota3",
+          "tipo": "nueva",
+          "titulo": "Rediseño de Seguimiento del Tiempo",
+          "descripcion": "Con la interfaz de seguimiento del tiempo renovada, obtienes un diseño optimizado para un seguimiento del tiempo más fácil y eficiente. Controla el tiempo directamente desde la barra de menú y permite que los administradores registren el tiempo de otros usuarios, lo que garantiza un control total del seguimiento del tiempo.",
+          "imagen": "/img/image2.png"
+        }
+      ]
+    }
+  ]
+}
